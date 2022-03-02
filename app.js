@@ -1,6 +1,4 @@
-import { getRandomNumber, getCssProp, l, detectColision, roundNum } from 'utils/utils.js'
-
-console.log('Hello');
+import { getRandomNumber, getCssProp, l, detectColision, roundNum } from './utils/utils.js'
 
 Object.assign( window, {
     getRandomNumber,
