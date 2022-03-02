@@ -1,4 +1,4 @@
-@import url(//db.onlinewebfonts.com/c/b2e75c336df191233b3096682c9ee6be?family=PixelarRegularW01-Regular);
+@import url(https://db.onlinewebfonts.com/c/b2e75c336df191233b3096682c9ee6be?family=PixelarRegularW01-Regular);
 
 *{
     margin: 0;
@@ -63,7 +63,7 @@ body{
     width: 35px;
     height: 35px;
     position: absolute;
-    background: url(/img/star.png);
+    background: url(img/star.png);
     background-position: center;
     background-size: contain;
 }
@@ -78,7 +78,7 @@ body{
 #block{
     width: 45px;
     height: 100vh;
-    background: url(/img/blockbg.jpg);
+    background: url(img/blockbg.jpg);
     background-position: center;
     background-size: contain;
     position: relative;
@@ -89,7 +89,7 @@ body{
     height: 193px;
     position: relative;
     top: -500px;
-    background: url(/img/holebg.jpg);
+    background: url(img/holebg.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     
@@ -102,7 +102,7 @@ body{
     height: 80px;
     position: absolute;
     border-radius: 50%;
-    background: url(/img/kisspng-flappy-bird-flappy-ghost-free-sprite-2d-computer-ghost-5ac0150a70f9a7.0132393015225377384628.png);
+    background: url(img/kisspng-flappy-bird-flappy-ghost-free-sprite-2d-computer-ghost-5ac0150a70f9a7.0132393015225377384628.png);
     background-size: contain;
     background-repeat: no-repeat;
 
