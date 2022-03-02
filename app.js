@@ -1,4 +1,4 @@
-import { getRandomNumber, getCssProp, l, detectColision, roundNum } from '/utils/utils.js'
+import { getRandomNumber, getCssProp, l, detectColision, roundNum } from 'utils/utils.js'
 
 console.log('Hello');
 
